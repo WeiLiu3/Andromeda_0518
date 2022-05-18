@@ -11,4 +11,3 @@ ipywidgets
 ipyplot
 torch
 torchvision
-jupyter_contrib_nbextensions
